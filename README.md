@@ -1,15 +1,38 @@
-# **Mari Belajar Project Titanic Disaster**
+# **Titanic Disaster**
 
-## Project Background
+# 📔**Titanic Disaster**
+Tool : Google Collab <br>
+Programming Language : Python <br>
+Libraries : <br>
+Visualization : <br>
+Source Dataset : MariBelajar <br>
+
+# 📂 STAGE 0: Business Understanding
+## Background Project :
+Karena .
 
 ## Objective :
-1. et
-2. ry
-   
-## Actions :
-1. et
-2. ry
+1. Mengidentifikasi .
+2. Memprediksi .
 
-## Result Project
+## Goals :
+maneuhejrk
 
-## Bussiness Recommendation
+## Method :
+Cross-Industry Standard Process for Data Mining (CRISP-DM)
+<br>
+
+# 📂 STAGE 1: Data Understanding
+## Data Overview :
+
+## Data Quality Assesment :
+
+## Data Exploration :
+
+# 📂 STAGE 2: Data Preparation
+
+# 📂 STAGE 3: Modelling
+
+# 📂 STAGE 4: Evaluation
+
+# 📂 STAGE 5: Deployment
