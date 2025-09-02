@@ -1,13 +1,11 @@
-# **Titanic Disaster**
-
 # 📔**Titanic Disaster**
-Tool : Google Collab <br>
+Tool : Google Collab, Tableau, Ms.Excel <br>
 Programming Language : Python <br>
 Libraries : <br>
 Visualization : <br>
 Source Dataset : MariBelajar <br>
 
-# 📂 STAGE 0: Business Understanding
+# 📂 Stage 0: Business Understanding
 ## Background Project :
 Karena .
 
@@ -17,22 +15,13 @@ Karena .
 
 ## Goals :
 maneuhejrk
-
-## Method :
-Cross-Industry Standard Process for Data Mining (CRISP-DM)
 <br>
 
-# 📂 STAGE 1: Data Understanding
+# 📂 Stage 1: Exploratory Data Analysis
 ## Data Overview :
 
 ## Data Quality Assesment :
 
 ## Data Exploration :
 
-# 📂 STAGE 2: Data Preparation
-
-# 📂 STAGE 3: Modelling
-
-# 📂 STAGE 4: Evaluation
-
-# 📂 STAGE 5: Deployment
+# 📂 Stage 2: Business Recommendation
